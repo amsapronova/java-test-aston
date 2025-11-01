@@ -6,7 +6,9 @@ public class TwoNumberOperations {
         try {
             System.out.println("Введите а");
 
+            // Создаем экземпляр сканера для получения данных пользователя из консоли
             Scanner scanner = new Scanner(System.in);
+            // Ожидание ввода числа через консоль
             int a = scanner.nextInt();
 
             System.out.println("Вы ввели a: " + a);
