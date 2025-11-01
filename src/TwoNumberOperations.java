@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class TwoNumberOperations {
     public static void main(String[] args) {
-        boolean isActive = true;
         try {
             System.out.println("Введите а");
 
